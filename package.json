@@ -18,6 +18,7 @@
     "fontawesome"
   ],
   "author": "Park Hyunwoo <ez.amiryo@gmail.com>",
+  "contributors": ["Shahabdeen Abdul-Moomin <tuurosungshahabdeen@yahoo.com>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lqez/summernote-fontawesome/issues"

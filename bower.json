@@ -3,6 +3,9 @@
   "authors": [
     "Park Hyunwoo <ez.amiryo@gmail.com>"
   ],
+  "contributors": [
+    "Shahabdeen Abdul-Moomin <tuurosungshahabdeen@yahoo.com>"
+  ],
   "description": "Using FontAwesome in Summernote",
   "main": "summernote-fontawesome.js",
   "moduleType": [],

@@ -1,7 +1,7 @@
 Using FontAwesome in Summernote, again
 ======================================
 
-This plugin replaces icons in Summernote toolbar with [FontAwesome](https://fontawesome.com/). 
+This plugin replaces icons in Summernote toolbar with [FontAwesome](https://fontawesome.com/).
 
 
 USAGE
@@ -23,13 +23,17 @@ NOTICE
    But some Summernote plugins were built on FontAwesome. So I made this for those.
 
  - This only affects on the toolbar of Summernote, not on popovers.
- 
+
  - Be sure to embed FontAwesome manually.
 
 
 AUTHOR
 ------
 [@lqez](https://github.com/lqez/)
+
+CONTRIBUTOR
+------
+[@tuurosung](https://github.com/tuurosung)
 
 
 LICENSE
